@@ -10,6 +10,7 @@
 ## Средние 
 
 - Converter - https://github.com/Bavizhev/Converter-to-text-graphics
+- Contacts - https://github.com/Bavizhev/Contacts.git
 
 ## Более сложные
 
